@@ -6,7 +6,7 @@ This project includes *Sales* and *Customer* dashboards created with Tableau, de
 
 - **[Tableau Sales & Customer Dashboards.twbx](Tableau Sales & Customer Dashboards.twbx)**: The main file containing both dashboards (*Sales* and *Customer*).
 - **[Charts Cheat Sheet](Charts Cheat Sheet.pdf)**: A guide for selecting the appropriate charts for visualizations.
-
+- **[Dashboard Icons]()**: Icons used in dashboards.
 ## 🚀 Getting Started
 
 1. **Download the Data**  
