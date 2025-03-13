@@ -4,11 +4,13 @@ This project includes *Sales* and *Customer* dashboards created with Tableau, de
 
 ## 🗂️ Project Files
 
-- [**Tableau Sales & Customer Dashboards.twbx**](https://github.com/BilalBoudjema/SalesPerformance/blob/main/Tableau%20Sales%20%26%20Customer%20Dashboards.twbx) : Le fichier principal contenant les tableaux de bord (*Sales* et *Customer*).  
-- [**Dashboard Icons**](https://github.com/BilalBoudjema/SalesPerformance/tree/main/Dashboard%20Icons) : Icônes utilisées dans les tableaux de bord.  
-- [**EU-Dataset**](https://github.com/BilalBoudjema/SalesPerformance/tree/main/EU-Dataset) : Données relatives aux performances de vente dans l’Union européenne.  
-- [**Non-EU Dataset**](https://github.com/BilalBoudjema/SalesPerformance/tree/main/Non-EU%20Dataset) : Données relatives aux performances de vente en dehors de l’Union européenne.  
-- [**README.md**](https://github.com/BilalBoudjema/SalesPerformance/blob/main/README.md) : Documentation du projet avec instructions et présentation des tableaux de bord.  
+- [**Tableau Sales & Customer Dashboards.twbx**](https://github.com/BilalBoudjema/SalesPerformance/blob/main/Tableau%20Sales%20%26%20Customer%20Dashboards.twbx): The main file containing both dashboards (*Sales* and *Customer*).  
+- [**Dashboard Icons**](https://github.com/BilalBoudjema/SalesPerformance/tree/main/Dashboard%20Icons): Icons used in the dashboards.  
+- [**EU-Dataset**](https://github.com/BilalBoudjema/SalesPerformance/tree/main/EU-Dataset): Data related to sales performance within the European Union.  
+- [**Non-EU Dataset**](https://github.com/BilalBoudjema/SalesPerformance/tree/main/Non-EU%20Dataset): Data related to sales performance outside the European Union.  
+- [**README.md**](https://github.com/BilalBoudjema/SalesPerformance/blob/main/README.md): Project documentation with instructions and an overview of the dashboards.  
+- [**🔗 View Live Dashboard**](https://public.tableau.com/app/profile/bilal.boudjema/viz/SalesCustomersDashboard_17418434156390/SalesDashboard?publish=yes): Access the interactive dashboard on Tableau Public.  
+
 
 ## 🚀 Getting Started
 
