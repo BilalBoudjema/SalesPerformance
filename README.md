@@ -5,7 +5,10 @@ This project includes *Sales* and *Customer* dashboards created with Tableau, de
 ## 🗂️ Project Files
 
 - **[Tableau Sales & Customer Dashboards.twbx]()**: The main file containing both dashboards (*Sales* and *Customer*).
-- **[Dashboard Icons]()**: Icons used in dashboards.
+- **[Dashboard Icons]()**: Icons used in dashboards.  
+- **[EU-Dataset]()**: Contains data related to sales performance within the European Union.  
+- **[Non-EU Dataset]()**: Contains data related to sales performance outside the European Union.  
+- **[README.md]()**: Project documentation with instructions and an overview of the dashboards.  
 
 ## 🚀 Getting Started
 
