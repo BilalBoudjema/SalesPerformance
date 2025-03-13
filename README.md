@@ -5,25 +5,27 @@ This project includes *Sales* and *Customer* dashboards created with Tableau, de
 ## 🗂️ Project Files
 
 - **[Tableau Sales & Customer Dashboards.twbx]()**: The main file containing both dashboards (*Sales* and *Customer*).
-- **[Charts Cheat Sheet]()**: A guide for selecting the appropriate charts for visualizations.
 - **[Dashboard Icons]()**: Icons used in dashboards.
+
 ## 🚀 Getting Started
 
-1. **Download the Data**  
-   Data is available in two formats based on location:  
-   - 🇪🇺 *EU Files*: For users located in Europe.  
-   - 🌍 *Non-EU Files*: For users located outside Europe.  
-   
+1. **Download the Data**\
+   Data is available in two formats based on location:
+
+   - 🇪🇺 *EU Files*: For users located in Europe.
+   - 🌍 *Non-EU Files*: For users located outside Europe.
+
    Choose the ZIP file based on location and extract it.
 
-2. **Open the Tableau File**  
+2. **Open the Tableau File**\
    Download and open the `Tableau Sales & Customer Dashboards.twbx` file in Tableau Desktop or Tableau Public.
 
-3. **Tableau Public**  
-   For those without Tableau installed, Tableau Public (Free) can be downloaded to explore the dashboards:  
+3. **Tableau Public**\
+   For those without Tableau installed, Tableau Public (Free) can be downloaded to explore the dashboards:
+
    - [Download Tableau Public](https://public.tableau.com/s/)
 
-4. **Create a Tableau Public Account**  
+4. **Create a Tableau Public Account**\
    An account can be created on Tableau Public to save and share visualizations online.
 
 ## 📈 Dashboard Features
@@ -48,4 +50,42 @@ This project includes *Sales* and *Customer* dashboards created with Tableau, de
 - **Easy Navigation**: Smooth transitions between the two dashboards.
 - **Interactivity**: The charts are interactive, allowing data filtering by clicking on elements.
 - **Data Filters**: Data can be filtered by product information (category, subcategory) and location information (region, state, city).
+
+## 📁 Project Structure
+
+```
+├── Dataset & Icons
+├── Tableau Sales & Customer Dashboards.twbx
+└── README.md
+```
+
+## 📂 Datasets
+
+The project provides datasets prepared for different regional decimal conventions:
+
+- **EU Files**: Use if your country uses a comma (`,`) as the decimal separator.
+- **Non-EU Files**: Use if your country uses a dot (`.`) as the decimal separator.
+
+✅ Download the appropriate ZIP file for your region.
+
+## 📚 Additional Resources
+
+- **[Tableau Public (Free)](https://public.tableau.com/s/)**: Download here.
+- **[Create Tableau Public Account (Free)](https://public.tableau.com/s/)**: Sign up.
+
+### Cheat Sheets
+
+- **Tableau Cheat Sheet**: Key concepts (Joins, Relationships, Filters, Dimensions/Measures, and more).
+- **Functions Cheat Sheet**: Common Tableau functions and calculations (Row-Level, Aggregate, LOD, Table Calculations).
+- **Charts Cheat Sheet**: Various chart types categorized for efficient design.
+
+## 📝 User Story: Sales Performance
+
+This project is based on a user story to deliver clear, actionable, and interactive insights through Tableau dashboards.
+
+## 📥 How to Use
+
+1. Download the appropriate dataset ZIP file based on your region.
+2. Open `Tableau Sales & Customer Dashboards.twbx` in Tableau Desktop or Tableau Public.
+3. Explore the dashboards using interactive filters and navigation options.
 
